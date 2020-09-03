@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35dae3e3-68e8-4eec-ac8e-749b2167b78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lastStoneWeight/lastStoneWeight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastStoneWeight/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberOfGoodPairs/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkWord/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkWord/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +106,9 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="187" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598993042169" />
-    <state x="109" y="57" key="new project wizard" timestamp="1598993218581">
+    <state x="109" y="57" key="new project wizard" timestamp="1599175238844">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="109" y="57" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1598993218581" />
+    <state x="109" y="57" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1599175238844" />
   </component>
 </project>
