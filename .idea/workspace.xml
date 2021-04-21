@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35dae3e3-68e8-4eec-ac8e-749b2167b78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberOfGoodPairs/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkIfTheSentenceIsPangram/checkIfTheSentenceIsPangram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkIfTheSentenceIsPangram/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goalParserInterpretation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runningSumOf1dArray/runningSumOf1dArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runningSumOf1dArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuffleTheArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,15 +57,45 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598908577075" />
-    <property name="last_opened_file_path" value="$USER_HOME$/EasyProbLeetCode" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java/cs61b/skeleton-sp18/lab1" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (4)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="checkIfTheSentenceIsPangram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="numbersSmallerThanTheCurrentNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="numberOfStepsToReduceANumberToZero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="goalParserInterpretation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="lastStoneWeight" />
@@ -64,6 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -92,23 +137,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="165" y="11" key="#Project_Structure" timestamp="1598993552136">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="165" y="11" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1598993552136" />
-    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1598993550581">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1598993550581" />
-    <state x="187" y="23" key="SettingsEditor" timestamp="1598993042169">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="187" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1598993042169" />
-    <state x="109" y="57" key="new project wizard" timestamp="1599175238844">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="109" y="57" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1599175238844" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

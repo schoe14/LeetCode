@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkIfTheSentenceIsPangram/checkIfTheSentenceIsPangram.iml" filepath="$PROJECT_DIR$/checkIfTheSentenceIsPangram/checkIfTheSentenceIsPangram.iml" />
       <module fileurl="file://$PROJECT_DIR$/checkWord/checkWord.iml" filepath="$PROJECT_DIR$/checkWord/checkWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" filepath="$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" />
       <module fileurl="file://$PROJECT_DIR$/lastStoneWeight/lastStoneWeight.iml" filepath="$PROJECT_DIR$/lastStoneWeight/lastStoneWeight.iml" />
       <module fileurl="file://$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" filepath="$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" filepath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" filepath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runningSumOf1dArray/runningSumOf1dArray.iml" filepath="$PROJECT_DIR$/runningSumOf1dArray/runningSumOf1dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" filepath="$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" filepath="$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" />
     </modules>
   </component>
 </project>
