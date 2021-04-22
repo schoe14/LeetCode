@@ -20,19 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35dae3e3-68e8-4eec-ac8e-749b2167b78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkIfTheSentenceIsPangram/checkIfTheSentenceIsPangram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkIfTheSentenceIsPangram/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goalParserInterpretation/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runningSumOf1dArray/runningSumOf1dArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runningSumOf1dArray/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shuffleTheArray/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countItemsMatchingARule/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decodeXORedArray/decodeXORedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decodeXORedArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kidsWithTheGreatestNumberOfCandies/kidsWithTheGreatestNumberOfCandies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kidsWithTheGreatestNumberOfCandies/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuffleString/shuffleString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuffleString/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598908577075" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java/cs61b/skeleton-sp18/lab1" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
