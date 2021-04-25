@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" filepath="$PROJECT_DIR$/shuffleTheArray/shuffleTheArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/signOfTheProductOfAnArray/signOfTheProductOfAnArray.iml" filepath="$PROJECT_DIR$/signOfTheProductOfAnArray/signOfTheProductOfAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" filepath="$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumOfAllOddLengthSubarrays/sumOfAllOddLengthSubarrays.iml" filepath="$PROJECT_DIR$/sumOfAllOddLengthSubarrays/sumOfAllOddLengthSubarrays.iml" />
     </modules>
   </component>
 </project>
