@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35dae3e3-68e8-4eec-ac8e-749b2167b78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/countOfMatchesInTournament/countOfMatchesInTournament.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countOfMatchesInTournament/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertBinaryNumberInALinkedListToInteger/convertBinaryNumberInALinkedListToInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertBinaryNumberInALinkedListToInteger/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
