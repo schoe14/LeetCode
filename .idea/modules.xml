@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/signOfTheProductOfAnArray/signOfTheProductOfAnArray.iml" filepath="$PROJECT_DIR$/signOfTheProductOfAnArray/signOfTheProductOfAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" filepath="$PROJECT_DIR$/subtractTheProductAndSumOfDigitsOfAnInteger/subtractTheProductAndSumOfDigitsOfAnInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/sumOfAllOddLengthSubarrays/sumOfAllOddLengthSubarrays.iml" filepath="$PROJECT_DIR$/sumOfAllOddLengthSubarrays/sumOfAllOddLengthSubarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truncateSentence/truncateSentence.iml" filepath="$PROJECT_DIR$/truncateSentence/truncateSentence.iml" />
     </modules>
   </component>
 </project>

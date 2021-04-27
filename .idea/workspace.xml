@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35dae3e3-68e8-4eec-ac8e-749b2167b78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/determineIfStringHalvesAreAlike/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truncateSentence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truncateSentence/truncateSentence.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -139,11 +140,6 @@
           <url>file://$PROJECT_DIR$/sumOfAllOddLengthSubarrays/src/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/determineIfStringHalvesAreAlike/src/Solution.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
