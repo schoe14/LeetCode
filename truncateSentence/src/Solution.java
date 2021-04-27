@@ -6,7 +6,6 @@
  * You want to truncate s such that it contains only the first k words.
  * Return s after truncating it.
  */
-
 public class Solution {
     public String truncateSentence(String s, int k) {
         String[] str = s.split(" ");

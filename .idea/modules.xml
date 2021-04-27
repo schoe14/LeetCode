@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/countTheNumberOfConsistentStrings/countTheNumberOfConsistentStrings.iml" filepath="$PROJECT_DIR$/countTheNumberOfConsistentStrings/countTheNumberOfConsistentStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/decodeXORedArray/decodeXORedArray.iml" filepath="$PROJECT_DIR$/decodeXORedArray/decodeXORedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/determineIfStringHalvesAreAlike/determineIfStringHalvesAreAlike.iml" filepath="$PROJECT_DIR$/determineIfStringHalvesAreAlike/determineIfStringHalvesAreAlike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findNumbersWithEvenNumberOfDigits/findNumbersWithEvenNumberOfDigits.iml" filepath="$PROJECT_DIR$/findNumbersWithEvenNumberOfDigits/findNumbersWithEvenNumberOfDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/findTheHighestAltitude/findTheHighestAltitude.iml" filepath="$PROJECT_DIR$/findTheHighestAltitude/findTheHighestAltitude.iml" />
       <module fileurl="file://$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" filepath="$PROJECT_DIR$/goalParserInterpretation/goalParserInterpretation.iml" />
       <module fileurl="file://$PROJECT_DIR$/kidsWithTheGreatestNumberOfCandies/kidsWithTheGreatestNumberOfCandies.iml" filepath="$PROJECT_DIR$/kidsWithTheGreatestNumberOfCandies/kidsWithTheGreatestNumberOfCandies.iml" />
