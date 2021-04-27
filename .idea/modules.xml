@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/countOfMatchesInTournament/countOfMatchesInTournament.iml" filepath="$PROJECT_DIR$/countOfMatchesInTournament/countOfMatchesInTournament.iml" />
       <module fileurl="file://$PROJECT_DIR$/countTheNumberOfConsistentStrings/countTheNumberOfConsistentStrings.iml" filepath="$PROJECT_DIR$/countTheNumberOfConsistentStrings/countTheNumberOfConsistentStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/decodeXORedArray/decodeXORedArray.iml" filepath="$PROJECT_DIR$/decodeXORedArray/decodeXORedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/determineColorOfAChessboardSquare/determineColorOfAChessboardSquare.iml" filepath="$PROJECT_DIR$/determineColorOfAChessboardSquare/determineColorOfAChessboardSquare.iml" />
       <module fileurl="file://$PROJECT_DIR$/determineIfStringHalvesAreAlike/determineIfStringHalvesAreAlike.iml" filepath="$PROJECT_DIR$/determineIfStringHalvesAreAlike/determineIfStringHalvesAreAlike.iml" />
       <module fileurl="file://$PROJECT_DIR$/findNumbersWithEvenNumberOfDigits/findNumbersWithEvenNumberOfDigits.iml" filepath="$PROJECT_DIR$/findNumbersWithEvenNumberOfDigits/findNumbersWithEvenNumberOfDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/findTheHighestAltitude/findTheHighestAltitude.iml" filepath="$PROJECT_DIR$/findTheHighestAltitude/findTheHighestAltitude.iml" />
