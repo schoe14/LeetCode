@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/minimumOperationsToMakeTheArrayIncreasing/minimumOperationsToMakeTheArrayIncreasing.iml" filepath="$PROJECT_DIR$/minimumOperationsToMakeTheArrayIncreasing/minimumOperationsToMakeTheArrayIncreasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/minimumTimeVisitingAllPoints/minimumTimeVisitingAllPoints.iml" filepath="$PROJECT_DIR$/minimumTimeVisitingAllPoints/minimumTimeVisitingAllPoints.iml" />
       <module fileurl="file://$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" filepath="$PROJECT_DIR$/numberOfGoodPairs/numberOfGoodPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberOfRectanglesThatCanFormTheLargestSquare/numberOfRectanglesThatCanFormTheLargestSquare.iml" filepath="$PROJECT_DIR$/numberOfRectanglesThatCanFormTheLargestSquare/numberOfRectanglesThatCanFormTheLargestSquare.iml" />
       <module fileurl="file://$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" filepath="$PROJECT_DIR$/numberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.iml" />
       <module fileurl="file://$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" filepath="$PROJECT_DIR$/numbersSmallerThanTheCurrentNumber/numbersSmallerThanTheCurrentNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/rangeSumOfBST/rangeSumOfBST.iml" filepath="$PROJECT_DIR$/rangeSumOfBST/rangeSumOfBST.iml" />
